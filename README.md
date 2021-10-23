@@ -6,8 +6,7 @@ Every artist isn't much benefited for their effort, energy, and time. If they co
 I faced numerous challenges throughout the journey especially in developing smart contract.
 
 ## Technologies we used
-    * React.js
+    * React.js ( best use for Front End )
     * Smart Contracts
     * Node.js
-    * Javascript
     * Solidity
